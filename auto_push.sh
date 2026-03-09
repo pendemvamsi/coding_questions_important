@@ -26,5 +26,5 @@ git push origin $BRANCH
 
 echo "Next push in 30 minutes..."
 
-sleep 1800
+sleep 10
 done
