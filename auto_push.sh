@@ -5,7 +5,7 @@
 # ================================
 
 REPO_URL="https://github.com/pendemvamsi/coding_questions_important.git"
-BRANCH="main"
+BRANCH="master"
 
 # First-time setup (runs only once)
 if [ ! -d ".git" ]; then
